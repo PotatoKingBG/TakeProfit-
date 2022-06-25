@@ -572,6 +572,7 @@ background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, F
   max-width: 1000px;
   display: flex;
   justify-content: center;
+  
 
 }
 .footer__link--wrapper { 
