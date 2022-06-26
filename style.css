@@ -661,3 +661,12 @@ background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, F
     font-size: 8rem;
   }
 }
+.imageshow__container {
+  background: #000000;
+}
+.imageshow__heading {
+  justify-content: center;
+  text-align: center;
+  color: #ffffff;
+  
+}
