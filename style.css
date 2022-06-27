@@ -522,6 +522,7 @@ background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, F
   display: flex;
   justify-content: center;
   margin-top: 16px;
+  text-decoration: none;
 }
 .services__card button {
   color: #fff;
@@ -735,12 +736,7 @@ background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, F
 .imageshow__container {
   position:relative;
 }
-.fa-solid, .fa-expand {
-  color: rgb(95, 95, 95);
-  position: absolute;
-  top: 300px;
-  font-size: 4rem;
-}
+
 .txt { 
   color: rgb(189, 189, 189);
   position:absolute;
