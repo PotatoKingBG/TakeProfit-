@@ -228,8 +228,7 @@ background: linear-gradient(to right, #A5CC82, #00467F); /* W3C, IE 10+/ Edge, F
   -moz-text-fill-color: transparent;
 }
 .highlight {
-    border-bottom: 4px solid rgb(132,0,255);
-
+    border-bottom: 4px solid rgb(0, 122, 0);
 }
 
 @media screen and (max-width: 768px) {
@@ -707,29 +706,29 @@ background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, F
 }
 #img1.is-active {
   position:relative;
-  max-width: 1300px;
-  width: 100%;
+  max-width: 1500px;
+  width: 150%;
   margin-top: 0px;
   margin-bottom: 0px;
 }
 #img2.is-active {
   position:relative;
-  max-width: 1300px;
-  width: 100%;
+  max-width: 1500px;
+  width: 150%;
   margin-top: 0px;
   margin-bottom: 0px;
 }
 #img3.is-active {
   position:relative;
-  max-width: 1300px;
-  width: 100%;
+  max-width: 1500px;
+  width: 150%;
   margin-top: 0px;
   margin-bottom: 0px;
 }
 #img4.is-active {
   position:relative;
-  max-width: 1300px;
-  width: 100%;
+  max-width: 1500px;
+  width: 150%;
   margin-top: 0px;
   margin-bottom: 0px;
 }
